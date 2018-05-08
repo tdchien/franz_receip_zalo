@@ -1,0 +1,13 @@
+{
+  "id": "zalo",
+  "name": "Zalo",
+  "version": "1.0.0",
+  "description": "Zalo Messenger",
+  "main": "index.js",
+  "author": "Chien Tran <info@chientran.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.zalo.me",
+    "hasNotificationSound": true
+  }
+}
